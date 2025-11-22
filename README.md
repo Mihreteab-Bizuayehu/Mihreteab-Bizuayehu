@@ -48,7 +48,7 @@ My goal is simple:
 
 - 📧 Email: **lijmihret@gmail.com**  
 - 💼 LinkedIn: **https://linkedin.com/in/mihireteab**  
-- 🌐 Portfolio: **https://mihreteab.com**  
+- 🌐 Portfolio: **https://mihreteab.vercel.app**  
 
 ---
 
